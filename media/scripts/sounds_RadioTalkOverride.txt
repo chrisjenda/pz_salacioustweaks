@@ -1,0 +1,12 @@
+module Base
+{
+	sound RadioTalk
+	{
+		category = Object,
+		clip
+		{
+			event = Object/Radio/Program,
+		}
+	}
+
+}

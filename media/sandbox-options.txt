@@ -1,0 +1,12 @@
+VERSION = 1,
+
+option SalaciousTweaks.XPmulti
+{
+	type = double,
+	min = 0,
+	max = 10000.0,
+	default = 10.0,
+
+	page = SalaciousTweaks,
+	translation = Passive Skill Multiplyer,
+}
